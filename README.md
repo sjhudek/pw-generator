@@ -1,14 +1,16 @@
 # pw-generator
 Javascript Password Generator
 
+***
+
 ## User Story
 * As an employee with access to sensitive data, I need to generate a strong and secure password. 
 * I want to have te following options for a password:
-** Must be between 8 and 128 characters and include at least one of the following:
-*** Lower case letter(s)
-*** Upper case letter(s)
-*** Number(s)
-*** Character(s)
+  * Must be between 8 and 128 characters and include at least one of the following:
+    ** Lower case letter(s)
+    ** Upper case letter(s)
+    ** Number(s)
+    ** Character(s)
 * By having a randomly generated password that meets these requirements, I can better protect the sensitive data that I have access to.
 
 ## Acceptance Criteria
