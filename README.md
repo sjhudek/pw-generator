@@ -29,3 +29,4 @@ https://sjhudek.github.io/pw-generator/
 
 ## Image of website
 
+!(pw-website.jpg)
