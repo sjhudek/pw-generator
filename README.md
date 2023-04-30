@@ -25,3 +25,7 @@ Javascript Password Generator
 
 ## Link to Website:
 
+https://sjhudek.github.io/pw-generator/
+
+## Image of website
+
