@@ -34,21 +34,20 @@ https://sjhudek.github.io/pw-generator/
 Password generator includes a mix of bits and pieces from the following:
 * The original challenge code
 * Paul Keldsen
-  https://www.youtube.com/watch?v=x4HUaiazDes
+** https://www.youtube.com/watch?v=x4HUaiazDes
 
 * Brad Traversy
-  https://www.youtube.com/watch?v=duNmhKgtcsI&t=33s
+** https://www.youtube.com/watch?v=duNmhKgtcsI&t=33s
 
 * Richard Taugenis
-  https://javascript.plainenglish.io/vanilla-js-simple-password-generator-87e02e5c506a
+** https://javascript.plainenglish.io/vanilla-js-simple-password-generator-87e02e5c506a
 
 * Foolish Developer
-  https://dev.to/code_mystery/random-password-generator-using-javascript-6a
+** https://dev.to/code_mystery/random-password-generator-using-javascript-6a
 
 * GitHub
-  https://github.com/jamierachael/Password-Generator
+** https://github.com/jamierachael/Password-Generator
 
 * Stack Overflow
- https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
-
- https://stackoverflow.com/questions/62627469/random-password-generator-with-prompts
+** https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working
+** https://stackoverflow.com/questions/62627469/random-password-generator-with-prompts
