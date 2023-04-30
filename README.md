@@ -22,3 +22,6 @@ Javascript Password Generator
 * Validate the input and ensure that at least one character type is selected.
 * Generate a password that matches the selected criteria.
 * Display the password in an alert or write it to the page.
+
+## Link to Website:
+
